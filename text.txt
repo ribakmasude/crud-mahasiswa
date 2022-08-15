@@ -1,0 +1,4 @@
+Sample Text
+==
+this simple text for merge repository 
+==
